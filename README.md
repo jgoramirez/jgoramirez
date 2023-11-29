@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jgoramirez" alt="jgoramirez" /></a> </p>
 
-- 🔭 I’m currently working on **Valtre**
+- 🔭 I’m currently working on **EPAM**
 
-- 🌱 I’m currently learning **Java Microservices and Dockers**
+- 🌱 I’m currently learning **AWS Certified Developer**
 
 - 👯 I’m looking to collaborate on **Java Microservices**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jgoramirez/](https://github.com/jgoramirez/)
 
-- 💬 Ask me about **Java Springboot, PL/SQL**
+- 💬 Ask me about **Java Springboot, PL/SQL, Azure, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
